@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": true,
+    "python.formatting.provider": "autopep8",
+    "python.pythonPath": "/home/edwin/Desktop/PROJECTS/C45KE-agreement/virtual/bin/python",
+    "python.linting.pylintEnabled": true
+}
